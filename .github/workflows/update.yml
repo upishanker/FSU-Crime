@@ -1,0 +1,50 @@
+name: Update crime data
+
+on:
+  schedule:
+    # Daily at 11:00 UTC (~6-7am US Eastern).
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+# Allow the workflow to commit the refreshed data back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-crime-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build data (scrape → merge → geocode → JSON)
+        run: python -m pipeline.build
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Gate on the real data files; crimes.json changes every run only
+          # because of its generated_at timestamp, so ignore a timestamp-only diff.
+          git add data/crime_data.csv data/geocode_cache.json
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+            git checkout -- docs/data/crimes.json || true
+          else
+            git add docs/data/crimes.json
+            git commit -m "chore: daily crime-log update ($(date -u +%Y-%m-%d))"
+            git push
+          fi
