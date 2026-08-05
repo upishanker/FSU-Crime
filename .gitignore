@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Legacy Folium output (superseded by the docs/ single-page app)
+crime_map.html
+crime.csv
+
+# Editor
+.idea/
