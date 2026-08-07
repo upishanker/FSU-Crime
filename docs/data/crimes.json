@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-08-05T07:00:45Z",
- "count": 272,
- "total_records": 301,
+ "generated_at": "2026-08-07T11:44:31Z",
+ "count": 275,
+ "total_records": 304,
  "crimes": [
+  {
+   "report_number": "2026-08060011",
+   "agency": "FSUPD",
+   "crime_type": "DWLS W/ KNOWLEDGE",
+   "crime_date": "2026-08-06T01:36:00",
+   "report_date": "2026-08-06T01:36:00",
+   "location": "1115 W CALL ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4442011,
+   "longitude": -84.2994469
+  },
   {
    "report_number": "2026-08030085",
    "agency": "FSUPD",
@@ -125,6 +136,17 @@
    "longitude": -84.28858
   },
   {
+   "report_number": "2026-08040042",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-07-31T14:00:00",
+   "report_date": "2026-08-04T09:42:00",
+   "location": "113 COLLEGIATE LOOP , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4416527,
+   "longitude": -84.2955294
+  },
+  {
    "report_number": "2026-07310114",
    "agency": "FSUPD",
    "crime_type": "BURGLARY OF UNOCCUP DWELLING WHILE UNARMED",
@@ -156,6 +178,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.4381241,
    "longitude": -84.2579148
+  },
+  {
+   "report_number": "2026-08050092",
+   "agency": "FSUPD",
+   "crime_type": "CRIMINAL MISCHIEF $1000 OR MORE",
+   "crime_date": "2026-07-29T08:00:00",
+   "report_date": "2026-08-05T14:37:00",
+   "location": "350 CHAPEL DR , TALLAHASSEE, FL 32304",
+   "disposition": "Inactive",
+   "latitude": 30.4450348,
+   "longitude": -84.3105036
   },
   {
    "report_number": "2026-07270096",
