@@ -1,8 +1,107 @@
 {
- "generated_at": "2026-08-07T11:44:31Z",
- "count": 275,
- "total_records": 304,
+ "generated_at": "2026-08-13T11:46:18Z",
+ "count": 284,
+ "total_records": 321,
  "crimes": [
+  {
+   "report_number": "2026-08110164",
+   "agency": "FSUPD",
+   "crime_type": "Loitering and Prowling",
+   "crime_date": "2026-08-11T21:51:00",
+   "report_date": "2026-08-11T21:51:00",
+   "location": "1000 W TENNESSEE ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.446909,
+   "longitude": -84.2994474
+  },
+  {
+   "report_number": "2026-08110164",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASSING",
+   "crime_date": "2026-08-11T21:51:00",
+   "report_date": "2026-08-11T21:51:00",
+   "location": "1000 W TENNESSEE ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.446909,
+   "longitude": -84.2994474
+  },
+  {
+   "report_number": "2026-08110086",
+   "agency": "FSUPD",
+   "crime_type": "FAILURE TO APPEAR OF DEFENDANT ON BAIL FOR MISDEMEANOR CHARGE",
+   "crime_date": "2026-08-11T10:15:00",
+   "report_date": "2026-08-11T10:16:00",
+   "location": "1610 W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4494482,
+   "longitude": -84.3081537
+  },
+  {
+   "report_number": "2026-08100057",
+   "agency": "FSUPD",
+   "crime_type": "OPERATE MOTOR VEHICLE W/O VALID LIC 3RD/SUBSQ",
+   "crime_date": "2026-08-10T14:09:00",
+   "report_date": "2026-08-10T14:09:00",
+   "location": "556 W TENNESSEE ST , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4447739,
+   "longitude": -84.2897867
+  },
+  {
+   "report_number": "2026-08100057",
+   "agency": "FSUPD",
+   "crime_type": "UNLAWFUL SPEED",
+   "crime_date": "2026-08-10T14:09:00",
+   "report_date": "2026-08-10T14:09:00",
+   "location": "556 W TENNESSEE ST , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4447739,
+   "longitude": -84.2897867
+  },
+  {
+   "report_number": "2026-08100048",
+   "agency": "FSUPD",
+   "crime_type": "RESISTING ARREST W/OUT VIOLENCE",
+   "crime_date": "2026-08-10T10:50:00",
+   "report_date": "2026-08-10T10:55:00",
+   "location": "109 COLLEGIATE LOOP , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4416527,
+   "longitude": -84.2955294
+  },
+  {
+   "report_number": "2026-08100044",
+   "agency": "FSUPD",
+   "crime_type": "CRIMINAL MISCHIEF $200 OR LESS- 1ST OFFENSE",
+   "crime_date": "2026-08-09T21:25:00",
+   "report_date": "2026-08-10T10:03:00",
+   "location": "921 LEARNING WAY , TALLAHASSEE, FL 32304",
+   "disposition": "Inactive",
+   "latitude": 30.4403853,
+   "longitude": -84.2991634
+  },
+  {
+   "report_number": "2026-08100107",
+   "agency": "FSUPD",
+   "crime_type": "Other- PETIT THEFT 1ST DEG $100 LESS THAN $750",
+   "crime_date": "2026-08-09T18:50:00",
+   "report_date": "2026-08-10T21:23:00",
+   "location": "702 UNIVERSITY WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.440514,
+   "longitude": -84.294052
+  },
+  {
+   "report_number": "2026-08070049",
+   "agency": "FSUPD",
+   "crime_type": "TRESSPASS AFTER WARNING",
+   "crime_date": "2026-08-07T10:54:00",
+   "report_date": "2026-08-07T10:54:00",
+   "location": "970 LEARNING WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4406304,
+   "longitude": -84.2986269
+  },
   {
    "report_number": "2026-08060011",
    "agency": "FSUPD",
