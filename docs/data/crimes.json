@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-08-18T11:24:46Z",
- "count": 292,
- "total_records": 331,
+ "generated_at": "2026-08-21T11:25:07Z",
+ "count": 294,
+ "total_records": 334,
  "crimes": [
+  {
+   "report_number": "2026-08190102",
+   "agency": "FSUPD",
+   "crime_type": "CRASH LEAVE THE SCENE W/O GIVING INFORMAITON MORE THAN $50 DAMAGE",
+   "crime_date": "2026-08-18T11:09:00",
+   "report_date": "2026-08-19T15:31:00",
+   "location": "143 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.441183,
+   "longitude": -84.2933518
+  },
+  {
+   "report_number": "2026-08160116",
+   "agency": "FSUPD",
+   "crime_type": "BATTERY- TOUCH OR STRIKE ANOTHER",
+   "crime_date": "2026-08-16T17:00:00",
+   "report_date": "2026-08-16T17:27:00",
+   "location": "824 W JEFFERSON ST , TALLAHASSEE, FL 32306",
+   "disposition": NaN,
+   "latitude": 30.4400453,
+   "longitude": -84.2968221
+  },
   {
    "report_number": "2026-08160030",
    "agency": "FSUPD",
