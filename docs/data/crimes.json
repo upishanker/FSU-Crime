@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-08-22T11:20:10Z",
- "count": 298,
- "total_records": 338,
+ "generated_at": "2026-08-25T11:26:45Z",
+ "count": 301,
+ "total_records": 347,
  "crimes": [
+  {
+   "report_number": "2026-08240018",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-08-24T01:49:00",
+   "report_date": "2026-08-24T01:49:00",
+   "location": "134 CONVOCATION WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4414006,
+   "longitude": -84.2929126
+  },
+  {
+   "report_number": "2026-08220033",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASSING",
+   "crime_date": "2026-08-22T04:25:00",
+   "report_date": "2026-08-22T04:25:00",
+   "location": "119 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Closed",
+   "latitude": 30.442567,
+   "longitude": -84.2940493
+  },
+  {
+   "report_number": "2026-08210037",
+   "agency": "FSUPD",
+   "crime_type": "DUI",
+   "crime_date": "2026-08-21T04:38:00",
+   "report_date": "2026-08-21T04:38:00",
+   "location": "900 W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4467187,
+   "longitude": -84.2976961
+  },
   {
    "report_number": "2026-08200159",
    "agency": "FSUPD",
