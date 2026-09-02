@@ -1,8 +1,74 @@
 {
- "generated_at": "2026-08-29T15:30:13Z",
- "count": 323,
- "total_records": 372,
+ "generated_at": "2026-09-02T14:58:53Z",
+ "count": 331,
+ "total_records": 389,
  "crimes": [
+  {
+   "report_number": "2026-09010009",
+   "agency": "FSUPD",
+   "crime_type": "DUI",
+   "crime_date": "2026-09-01T00:28:00",
+   "report_date": "2026-09-01T00:28:00",
+   "location": "75 N WOODWARD AVE , TALLAHASSEE, FL 32306",
+   "disposition": "Closed",
+   "latitude": 30.4445043,
+   "longitude": -84.2971629
+  },
+  {
+   "report_number": "2026-09010009",
+   "agency": "FSUPD",
+   "crime_type": "REFUSE BREATH TEST",
+   "crime_date": "2026-09-01T00:28:00",
+   "report_date": "2026-09-01T00:28:00",
+   "location": "75 N WOODWARD AVE , TALLAHASSEE, FL 32306",
+   "disposition": "Closed",
+   "latitude": 30.4445043,
+   "longitude": -84.2971629
+  },
+  {
+   "report_number": "2026-08310090",
+   "agency": "FSUPD",
+   "crime_type": "LEAVE SCENE OF CRASH INVOLVE DAMAGE TO PROP",
+   "crime_date": "2026-08-31T14:36:00",
+   "report_date": "2026-08-31T16:00:00",
+   "location": "2001 LEVY AVE , TALLAHASSEE, FL 32310",
+   "disposition": "Open/Pending",
+   "latitude": 30.423326,
+   "longitude": -84.317553
+  },
+  {
+   "report_number": "2026-08290005",
+   "agency": "FSUPD",
+   "crime_type": "POSSESS SIMILITUDE OF DRIVER LIC",
+   "crime_date": "2026-08-29T00:23:00",
+   "report_date": "2026-08-29T00:23:00",
+   "location": "444 W COLLEGE AVE , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4411745,
+   "longitude": -84.2872364
+  },
+  {
+   "report_number": "2026-08290005",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-08-29T00:23:00",
+   "report_date": "2026-08-29T00:23:00",
+   "location": "444 W COLLEGE AVE , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4411745,
+   "longitude": -84.2872364
+  },
+  {
+   "report_number": "2026-08280174",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-08-28T23:10:00",
+   "report_date": "2026-08-28T23:10:00",
+   "location": "400 W COLLEGE AVE , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.440808,
+   "longitude": -84.285826
+  },
   {
    "report_number": "2026-08270143",
    "agency": "FSUPD",
@@ -79,6 +145,17 @@
    "disposition": "Cleared by Arrest",
    "latitude": 30.440641,
    "longitude": -84.2898964
+  },
+  {
+   "report_number": "2026-08280083",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-08-27T17:00:00",
+   "report_date": "2026-08-28T11:39:00",
+   "location": "1106 W CALL ST , Tallahassee, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4443549,
+   "longitude": -84.299354
   },
   {
    "report_number": "2026-08270094",
@@ -233,6 +310,17 @@
    "disposition": "Closed",
    "latitude": 30.442567,
    "longitude": -84.2940493
+  },
+  {
+   "report_number": "2026-08280102",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-08-21T12:00:00",
+   "report_date": "2026-08-28T15:50:00",
+   "location": "830 W JEFFERSON ST , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
   },
   {
    "report_number": "2026-08210037",
