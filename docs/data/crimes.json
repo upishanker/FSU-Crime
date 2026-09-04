@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-09-02T14:58:53Z",
- "count": 331,
- "total_records": 389,
+ "generated_at": "2026-09-04T14:49:04Z",
+ "count": 334,
+ "total_records": 393,
  "crimes": [
+  {
+   "report_number": "2026-09030009",
+   "agency": "FSUPD",
+   "crime_type": "BURGLARY OF UNOCCUP DWELLING WHILE UNARMED",
+   "crime_date": "2026-09-02T22:00:00",
+   "report_date": "2026-09-03T01:22:00",
+   "location": "111 S WOODWARD AVE , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4408871,
+   "longitude": -84.2967808
+  },
   {
    "report_number": "2026-09010009",
    "agency": "FSUPD",
@@ -68,6 +79,17 @@
    "disposition": "Cleared by Arrest",
    "latitude": 30.440808,
    "longitude": -84.285826
+  },
+  {
+   "report_number": "2026-09020111",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-08-28T10:00:00",
+   "report_date": "2026-09-02T17:01:00",
+   "location": "1106 W CALL ST , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.445961,
+   "longitude": -84.303475
   },
   {
    "report_number": "2026-08270143",
@@ -299,6 +321,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.4414006,
    "longitude": -84.2929126
+  },
+  {
+   "report_number": "2026-09010129",
+   "agency": "FSUPD",
+   "crime_type": "BURGLARY OF UNOCCUP DWELLING WHILE UNARMED",
+   "crime_date": "2026-08-24T00:00:00",
+   "report_date": "2026-09-01T14:44:00",
+   "location": "119 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.442567,
+   "longitude": -84.2940493
   },
   {
    "report_number": "2026-08220033",
