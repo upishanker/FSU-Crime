@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-09-04T14:49:04Z",
- "count": 334,
- "total_records": 393,
+ "generated_at": "2026-09-05T13:41:03Z",
+ "count": 336,
+ "total_records": 395,
  "crimes": [
+  {
+   "report_number": "2026-09030136",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-09-03T22:26:00",
+   "report_date": "2026-09-03T22:26:00",
+   "location": "400 WEST COLLEGE , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.440808,
+   "longitude": -84.285826
+  },
+  {
+   "report_number": "2026-09030040",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF OCCUP STRUCTURE OR CONVEYANCE",
+   "crime_date": "2026-09-03T08:12:00",
+   "report_date": "2026-09-03T08:13:00",
+   "location": "1107 W CALL ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4454687,
+   "longitude": -84.303801
+  },
   {
    "report_number": "2026-09030009",
    "agency": "FSUPD",
