@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-09-10T14:51:44Z",
- "count": 360,
- "total_records": 420,
+ "generated_at": "2026-09-11T14:51:00Z",
+ "count": 364,
+ "total_records": 424,
  "crimes": [
+  {
+   "report_number": "2026-09090099",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-09-09T09:30:00",
+   "report_date": "2026-09-09T13:10:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
+  },
+  {
+   "report_number": "2026-09090096",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-09-09T08:00:00",
+   "report_date": "2026-09-09T15:17:00",
+   "location": "389 STADIUM DR , Tallahassee, FL 32306",
+   "disposition": "Victim Refused to Cooperate",
+   "latitude": 30.4410416,
+   "longitude": -84.3053423
+  },
   {
    "report_number": "2026-09080115",
    "agency": "FSUPD",
@@ -365,6 +387,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.445961,
    "longitude": -84.303475
+  },
+  {
+   "report_number": "2026-09090126",
+   "agency": "FSUPD",
+   "crime_type": "COMMUNICATE TO DEFRAUD PROPERTY VALUE OF <$300",
+   "crime_date": "2026-08-27T23:53:00",
+   "report_date": "2026-09-09T20:07:00",
+   "location": "126 CONVOCATION WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4421591,
+   "longitude": -84.2929902
   },
   {
    "report_number": "2026-08270143",
@@ -772,6 +805,17 @@
    "disposition": "Inactive",
    "latitude": 30.441505,
    "longitude": -84.297107
+  },
+  {
+   "report_number": "2026-09090110",
+   "agency": "FSUPD",
+   "crime_type": "FRAUD MRKTNG PRAC BY FALSE MISLEAD STATEMENT INFO",
+   "crime_date": "2026-08-13T11:25:00",
+   "report_date": "2026-09-09T17:01:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
   },
   {
    "report_number": "2026-09080083",
