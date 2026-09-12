@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-09-11T14:51:00Z",
- "count": 364,
- "total_records": 424,
+ "generated_at": "2026-09-12T13:53:59Z",
+ "count": 368,
+ "total_records": 428,
  "crimes": [
+  {
+   "report_number": "2026-09110032",
+   "agency": "FSUPD",
+   "crime_type": "DRIVE WHILE LIC SUSP HABITUAL OFFENDER",
+   "crime_date": "2026-09-11T02:27:00",
+   "report_date": "2026-09-11T02:27:00",
+   "location": "BASIN ST/W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Open/Pending",
+   "latitude": 30.4491529,
+   "longitude": -84.3065519
+  },
+  {
+   "report_number": "2026-09110002",
+   "agency": "FSUPD",
+   "crime_type": "BATTERY CAUSING BODILY HARM",
+   "crime_date": "2026-09-11T00:05:00",
+   "report_date": "2026-09-11T00:05:00",
+   "location": "272 CHIEFTAN WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4465807,
+   "longitude": -84.3020639
+  },
+  {
+   "report_number": "2026-09100168",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-09-10T23:13:00",
+   "report_date": "2026-09-10T23:13:00",
+   "location": "400 W COLLEGE AVE , TALLAHASSEE, FL 32301",
+   "disposition": "Open/Pending",
+   "latitude": 30.440808,
+   "longitude": -84.285826
+  },
+  {
+   "report_number": "2026-09100152",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-09-09T11:50:00",
+   "report_date": "2026-09-10T20:38:00",
+   "location": "923 LEARNING WAY , Tallahassee, FL 32304",
+   "disposition": "Open/Pending",
+   "latitude": 30.440293,
+   "longitude": -84.2996132
+  },
   {
    "report_number": "2026-09090099",
    "agency": "FSUPD",
