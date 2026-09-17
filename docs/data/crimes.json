@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-09-16T15:20:18Z",
- "count": 372,
- "total_records": 435,
+ "generated_at": "2026-09-17T15:26:31Z",
+ "count": 374,
+ "total_records": 440,
  "crimes": [
+  {
+   "report_number": "2026-09150078",
+   "agency": "FSUPD",
+   "crime_type": "LEAVE SCENE OF CRASH INVOLVE DAMAGE TO PROP",
+   "crime_date": "2026-09-14T15:00:00",
+   "report_date": "2026-09-15T10:02:00",
+   "location": "1952 HERITAGE GROVE CIR , TALLAHASSEE, FL 32304",
+   "disposition": "Inactive",
+   "latitude": 30.4457266,
+   "longitude": -84.3161136
+  },
   {
    "report_number": "2026-09140019",
    "agency": "FSUPD",
@@ -13,6 +24,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.4379897,
    "longitude": -84.2997081
+  },
+  {
+   "report_number": "2026-09150075",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT OF MOTOR VEHICLE",
+   "crime_date": "2026-09-13T20:00:00",
+   "report_date": "2026-09-15T09:29:00",
+   "location": "1904 HERITAGE GROVE CIR , TALLAHASSEE, FL 32304",
+   "disposition": "Open/Pending",
+   "latitude": 30.4449823,
+   "longitude": -84.3155363
   },
   {
    "report_number": "2026-09110130",
