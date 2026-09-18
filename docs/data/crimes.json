@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-09-17T15:26:31Z",
- "count": 374,
- "total_records": 440,
+ "generated_at": "2026-09-18T14:47:51Z",
+ "count": 378,
+ "total_records": 444,
  "crimes": [
+  {
+   "report_number": "2026-09160095",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-09-16T07:20:00",
+   "report_date": "2026-09-16T15:08:00",
+   "location": "702 UNIVERSITY WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.440514,
+   "longitude": -84.294052
+  },
+  {
+   "report_number": "2026-09160119",
+   "agency": "FSUPD",
+   "crime_type": "CRIMINAL MISCHIEF $200 OR LESS- 1ST OFFENSE",
+   "crime_date": "2026-09-16T07:02:00",
+   "report_date": "2026-09-16T19:05:00",
+   "location": "117 N WOODWARD AVE , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4440839,
+   "longitude": -84.3000282
+  },
+  {
+   "report_number": "2026-09160119",
+   "agency": "FSUPD",
+   "crime_type": "grand theft of the third degree and a felony of the third degree",
+   "crime_date": "2026-09-16T07:02:00",
+   "report_date": "2026-09-16T19:05:00",
+   "location": "117 N WOODWARD AVE , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4440839,
+   "longitude": -84.3000282
+  },
   {
    "report_number": "2026-09150078",
    "agency": "FSUPD",
@@ -827,6 +860,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.441183,
    "longitude": -84.2933518
+  },
+  {
+   "report_number": "2026-09160093",
+   "agency": "FSUPD",
+   "crime_type": "COMMUNICATIONS FRAUD TO OBTAIN PROPERTY $300 OR MORE",
+   "crime_date": "2026-08-17T00:00:00",
+   "report_date": "2026-09-16T15:00:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
   },
   {
    "report_number": "2026-08160116",
