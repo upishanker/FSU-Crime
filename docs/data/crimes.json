@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T14:47:51Z",
- "count": 378,
- "total_records": 444,
+ "generated_at": "2026-09-19T14:11:39Z",
+ "count": 380,
+ "total_records": 446,
  "crimes": [
   {
    "report_number": "2026-09160095",
@@ -35,6 +35,28 @@
    "disposition": "Open/Pending",
    "latitude": 30.4440839,
    "longitude": -84.3000282
+  },
+  {
+   "report_number": "2026-09170071",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-09-15T18:00:00",
+   "report_date": "2026-09-17T12:04:00",
+   "location": "808 W TENNESSEE ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4453185,
+   "longitude": -84.2962546
+  },
+  {
+   "report_number": "2026-09170097",
+   "agency": "FSUPD",
+   "crime_type": "FRAUD USE MISDEMEANOR OF CC 2 OR LESS TIMES W/IN 6 MOS OR FOR LESS THAN $100",
+   "crime_date": "2026-09-15T17:00:00",
+   "report_date": "2026-09-17T17:31:00",
+   "location": "202 VARSITY DR , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4404682,
+   "longitude": -84.3000998
   },
   {
    "report_number": "2026-09150078",
