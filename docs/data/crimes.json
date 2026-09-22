@@ -1,8 +1,74 @@
 {
- "generated_at": "2026-09-19T14:11:39Z",
- "count": 380,
- "total_records": 446,
+ "generated_at": "2026-09-22T15:25:54Z",
+ "count": 386,
+ "total_records": 453,
  "crimes": [
+  {
+   "report_number": "2026-09190148",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS FAIL TO LEAVE PROP ON ORDER OF OWNER",
+   "crime_date": "2026-09-19T22:00:00",
+   "report_date": "2026-09-19T22:08:00",
+   "location": "823 W JEFFERSON ST , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4392892,
+   "longitude": -84.2970717
+  },
+  {
+   "report_number": "2026-09190040",
+   "agency": "FSUPD",
+   "crime_type": "SEX PRED FAIL TO REREGISTER AS REQUIRED",
+   "crime_date": "2026-09-19T04:12:00",
+   "report_date": "2026-09-19T04:12:00",
+   "location": "287 CHAMPIONS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4376256,
+   "longitude": -84.3025185
+  },
+  {
+   "report_number": "2026-09180124",
+   "agency": "FSUPD",
+   "crime_type": "Threats; extortion written or printed communication-guilty of a felony of the second degree",
+   "crime_date": "2026-09-18T21:00:00",
+   "report_date": "2026-09-18T21:01:00",
+   "location": "923 LEARNING WAY , Tallahassee, FL 32304",
+   "disposition": "Victim Refused to Cooperate",
+   "latitude": 30.440293,
+   "longitude": -84.2996132
+  },
+  {
+   "report_number": "2026-09180132",
+   "agency": "FSUPD",
+   "crime_type": "CARELESS DRIVING",
+   "crime_date": "2026-09-18T20:40:00",
+   "report_date": "2026-09-18T21:51:00",
+   "location": "SPIRIT WAY/STADIUM DR , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.44256009999999,
+   "longitude": -84.3051442
+  },
+  {
+   "report_number": "2026-09180042",
+   "agency": "FSUPD",
+   "crime_type": "FAILURE TO APPEAR OF DEFENDANT ON BAIL FOR FELONY CHARGE",
+   "crime_date": "2026-09-18T08:50:00",
+   "report_date": "2026-09-18T08:50:00",
+   "location": "1107 W CALL ST , Tallahassee, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4448472,
+   "longitude": -84.3043865
+  },
+  {
+   "report_number": "2026-09180042",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF STRUCTURE OR CONVEYANCE",
+   "crime_date": "2026-09-18T08:50:00",
+   "report_date": "2026-09-18T08:50:00",
+   "location": "1107 W CALL ST , Tallahassee, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4448472,
+   "longitude": -84.3043865
+  },
   {
    "report_number": "2026-09160095",
    "agency": "FSUPD",
