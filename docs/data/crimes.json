@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-09-22T15:25:54Z",
- "count": 386,
- "total_records": 453,
+ "generated_at": "2026-09-23T15:18:39Z",
+ "count": 391,
+ "total_records": 458,
  "crimes": [
+  {
+   "report_number": "2026-09210146",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-09-21T21:45:00",
+   "report_date": "2026-09-21T21:45:00",
+   "location": "200 S DUVAL ST , TALLAHASSEE, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4403557,
+   "longitude": -84.2834003
+  },
+  {
+   "report_number": "2026-09210090",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF NOT MORE THAN 20 GRAMS OF CANNABIS",
+   "crime_date": "2026-09-21T12:26:00",
+   "report_date": "2026-09-21T12:26:00",
+   "location": "1641 W PENSACOLA ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4398932,
+   "longitude": -84.3089819
+  },
+  {
+   "report_number": "2026-09210076",
+   "agency": "FSUPD",
+   "crime_type": "ATTACH REGISTRATION LICENSE PLATE NOT ASSIGNED",
+   "crime_date": "2026-09-21T10:06:00",
+   "report_date": "2026-09-21T10:06:00",
+   "location": "W BREVARD ST/W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4489964,
+   "longitude": -84.3047241
+  },
+  {
+   "report_number": "2026-09210076",
+   "agency": "FSUPD",
+   "crime_type": "DRIV WHILE LIC SUSPEND REVOCATION EQUIV STATUS 1ST OFFENSE",
+   "crime_date": "2026-09-21T10:06:00",
+   "report_date": "2026-09-21T10:06:00",
+   "location": "W BREVARD ST/W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4489964,
+   "longitude": -84.3047241
+  },
   {
    "report_number": "2026-09190148",
    "agency": "FSUPD",
@@ -13,6 +57,17 @@
    "disposition": "Cleared by Arrest",
    "latitude": 30.4392892,
    "longitude": -84.2970717
+  },
+  {
+   "report_number": "2026-09210109",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-09-19T09:30:00",
+   "report_date": "2026-09-21T16:07:00",
+   "location": "75 N WOODWARD AVE , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4445384,
+   "longitude": -84.2972973
   },
   {
    "report_number": "2026-09190040",
