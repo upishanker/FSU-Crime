@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-09-23T15:18:39Z",
- "count": 391,
- "total_records": 458,
+ "generated_at": "2026-09-25T15:44:19Z",
+ "count": 394,
+ "total_records": 461,
  "crimes": [
+  {
+   "report_number": "2026-09240015",
+   "agency": "FSUPD",
+   "crime_type": "FLEE & ELUDE POLICE OFFICER",
+   "crime_date": "2026-09-24T01:51:00",
+   "report_date": "2026-09-24T01:51:00",
+   "location": "DEWEY ST/W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Open/Pending",
+   "latitude": 30.4445833,
+   "longitude": -84.2941759
+  },
+  {
+   "report_number": "2026-09230104",
+   "agency": "FSUPD",
+   "crime_type": "DWLSR REVOCATION EQUIV STATUS 2ND OFF",
+   "crime_date": "2026-09-23T15:14:00",
+   "report_date": "2026-09-23T15:14:00",
+   "location": "WADSWORTH ST/W TENNESSEE ST , TALLAHASSEE, FL",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4487949,
+   "longitude": -84.3046887
+  },
+  {
+   "report_number": "2026-09230058",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-09-22T05:35:00",
+   "report_date": "2026-09-23T09:52:00",
+   "location": "143 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.441183,
+   "longitude": -84.2933518
+  },
   {
    "report_number": "2026-09210146",
    "agency": "FSUPD",
