@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T15:44:19Z",
- "count": 394,
- "total_records": 461,
+ "generated_at": "2026-09-26T14:53:10Z",
+ "count": 395,
+ "total_records": 462,
  "crimes": [
   {
    "report_number": "2026-09240015",
@@ -13,6 +13,17 @@
    "disposition": "Open/Pending",
    "latitude": 30.4445833,
    "longitude": -84.2941759
+  },
+  {
+   "report_number": "2026-09240083",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-09-23T19:56:00",
+   "report_date": "2026-09-24T11:18:00",
+   "location": "1106 W CALL ST , Tallahassee, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4443549,
+   "longitude": -84.299354
   },
   {
    "report_number": "2026-09230104",
