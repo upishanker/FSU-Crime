@@ -1,8 +1,129 @@
 {
- "generated_at": "2026-09-26T14:53:10Z",
- "count": 395,
- "total_records": 462,
+ "generated_at": "2026-09-29T16:48:16Z",
+ "count": 406,
+ "total_records": 476,
  "crimes": [
+  {
+   "report_number": "2026-09280092",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF PROPERTY NOT STRUCTURE OR CONVEY",
+   "crime_date": "2026-09-28T16:34:00",
+   "report_date": "2026-09-28T16:34:00",
+   "location": "1900 HERITAGE GROVE CIR , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.444982,
+   "longitude": -84.3160427
+  },
+  {
+   "report_number": "2026-09270043",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF STRUCTURE OR CONVEYANCE",
+   "crime_date": "2026-09-27T10:30:00",
+   "report_date": "2026-09-27T10:34:00",
+   "location": "530 W CALL ST , Tallahassee, FL 32301",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4441433,
+   "longitude": -84.2899603
+  },
+  {
+   "report_number": "2026-09270013",
+   "agency": "FSUPD",
+   "crime_type": "BATTERY- TOUCH OR STRIKE ANOTHER",
+   "crime_date": "2026-09-27T02:14:00",
+   "report_date": "2026-09-27T02:46:00",
+   "location": "821 ACADEMIC WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.44421,
+   "longitude": -84.295514
+  },
+  {
+   "report_number": "2026-09270013",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-09-27T02:14:00",
+   "report_date": "2026-09-27T02:46:00",
+   "location": "821 ACADEMIC WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.44421,
+   "longitude": -84.295514
+  },
+  {
+   "report_number": "2026-09260076",
+   "agency": "FSUPD",
+   "crime_type": "IMPROPER BACKING",
+   "crime_date": "2026-09-26T15:10:00",
+   "report_date": "2026-09-26T15:15:00",
+   "location": "977 LEARNING WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4411001,
+   "longitude": -84.2998738
+  },
+  {
+   "report_number": "2026-09260071",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-09-26T14:10:00",
+   "report_date": "2026-09-26T14:13:00",
+   "location": "631 UNIVERSITY WAY , Tallahassee, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4399321,
+   "longitude": -84.2919079
+  },
+  {
+   "report_number": "2026-09260070",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $5K LESS THAN $10K",
+   "crime_date": "2026-09-26T14:04:00",
+   "report_date": "2026-09-26T14:05:00",
+   "location": "1948 HERITAGE GROVE CIR , TALLAHASSEE, FL 32304",
+   "disposition": "Open/Pending",
+   "latitude": 30.4463056,
+   "longitude": -84.3133
+  },
+  {
+   "report_number": "2026-09260068",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF ALCOHOL BY MINOR",
+   "crime_date": "2026-09-26T13:30:00",
+   "report_date": "2026-09-26T13:33:00",
+   "location": "631 UNIVERSITY WAY , Tallahassee, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4399321,
+   "longitude": -84.2919079
+  },
+  {
+   "report_number": "2026-09250076",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-09-25T13:13:00",
+   "report_date": "2026-09-25T13:13:00",
+   "location": "W ST AUGUSTINE ST/S WOODWARD AVE , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4375878,
+   "longitude": -84.2980867
+  },
+  {
+   "report_number": "2026-09250076",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS FAIL TO LEAVE PROP ON ORDER OF OWNER",
+   "crime_date": "2026-09-25T13:13:00",
+   "report_date": "2026-09-25T13:13:00",
+   "location": "W ST AUGUSTINE ST/S WOODWARD AVE , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4375878,
+   "longitude": -84.2980867
+  },
+  {
+   "report_number": "2026-09250064",
+   "agency": "FSUPD",
+   "crime_type": "DRIV WHILE LIC SUSPEND REVOCATION EQUIV STATUS 1ST OFFENSE",
+   "crime_date": "2026-09-25T11:11:00",
+   "report_date": "2026-09-25T11:11:00",
+   "location": "1350 W TENNESSEE ST , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4499911,
+   "longitude": -84.3045735
+  },
   {
    "report_number": "2026-09240015",
    "agency": "FSUPD",
