@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-10-01T17:16:45Z",
- "count": 410,
- "total_records": 480,
+ "generated_at": "2026-10-02T16:30:29Z",
+ "count": 413,
+ "total_records": 483,
  "crimes": [
+  {
+   "report_number": "2026-10010096",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF STRUCTURE OR CONVEYANCE",
+   "crime_date": "2026-10-01T14:25:00",
+   "report_date": "2026-10-01T14:26:00",
+   "location": "1729 W PAUL DIRAC DR , Tallahassee, FL 32310",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4251814,
+   "longitude": -84.3244173
+  },
+  {
+   "report_number": "2026-10010093",
+   "agency": "FSUPD",
+   "crime_type": "LEAVE SCENE OF CRASH INVOLVE DAMAGE TO PROP",
+   "crime_date": "2026-10-01T08:00:00",
+   "report_date": "2026-10-01T13:47:00",
+   "location": "1122 SPIRIT WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Closed",
+   "latitude": 30.4434126,
+   "longitude": -84.3052002
+  },
+  {
+   "report_number": "2026-10010085",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-10-01T07:48:00",
+   "report_date": "2026-10-01T12:39:00",
+   "location": "143 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.441183,
+   "longitude": -84.2933518
+  },
   {
    "report_number": "2026-09290173",
    "agency": "FSUPD",
