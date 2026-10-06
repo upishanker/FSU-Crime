@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-10-05T21:26:48Z",
- "count": 423,
- "total_records": 493,
+ "generated_at": "2026-10-06T17:03:11Z",
+ "count": 427,
+ "total_records": 497,
  "crimes": [
+  {
+   "report_number": "2026-10050078",
+   "agency": "FSUPD",
+   "crime_type": "FAIL TO REGISTER MOTOR VEH",
+   "crime_date": "2026-10-05T12:18:00",
+   "report_date": "2026-10-05T12:18:00",
+   "location": "510 W VIRGINIA ST , TALLAHASSEE, FL",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4462768,
+   "longitude": -84.2954413
+  },
   {
    "report_number": "2026-10040106",
    "agency": "FSUPD",
@@ -81,6 +92,17 @@
    "longitude": -84.317553
   },
   {
+   "report_number": "2026-10050077",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-10-02T14:00:00",
+   "report_date": "2026-10-05T12:15:00",
+   "location": "1165 ACADEMIC WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4479633,
+   "longitude": -84.3037617
+  },
+  {
    "report_number": "2026-10020068",
    "agency": "FSUPD",
    "crime_type": "CRASH LEAVE THE SCENE W/O GIVING INFORMAITON MORE THAN $50 DAMAGE",
@@ -123,6 +145,17 @@
    "disposition": "Inactive",
    "latitude": 30.441183,
    "longitude": -84.2933518
+  },
+  {
+   "report_number": "2026-10050113",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-09-30T17:00:00",
+   "report_date": "2026-10-05T16:08:00",
+   "location": "1165 ACADEMIC WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4479633,
+   "longitude": -84.3037617
   },
   {
    "report_number": "2026-09290173",
@@ -2620,6 +2653,17 @@
    "disposition": "Inactive",
    "latitude": 30.4402325,
    "longitude": -84.2995708
+  },
+  {
+   "report_number": "2026-10050086",
+   "agency": "FSUPD",
+   "crime_type": "SEND WRITTEN THREAT TO COMMIT BODILY INJURY",
+   "crime_date": "2026-05-01T08:00:00",
+   "report_date": "2026-10-05T13:15:00",
+   "location": "389 STADIUM DR , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4410416,
+   "longitude": -84.3053423
   },
   {
    "report_number": "2026-10020091",
