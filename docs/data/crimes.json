@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-10-06T17:03:11Z",
- "count": 427,
- "total_records": 497,
+ "generated_at": "2026-10-07T17:40:54Z",
+ "count": 429,
+ "total_records": 499,
  "crimes": [
+  {
+   "report_number": "2026-10060082",
+   "agency": "FSUPD",
+   "crime_type": "DWLS W/ KNOWLEDGE",
+   "crime_date": "2026-10-06T13:30:00",
+   "report_date": "2026-10-06T13:30:00",
+   "location": "1312 W TENNESSEE ST , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4487379,
+   "longitude": -84.3035211
+  },
   {
    "report_number": "2026-10050078",
    "agency": "FSUPD",
@@ -981,6 +992,17 @@
    "disposition": "Closed",
    "latitude": 30.4445043,
    "longitude": -84.2971629
+  },
+  {
+   "report_number": "2026-10060049",
+   "agency": "FSUPD",
+   "crime_type": "Other- PETIT THEFT 1ST DEG $100 LESS THAN $750",
+   "crime_date": "2026-09-01T00:00:00",
+   "report_date": "2026-10-06T09:09:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
   },
   {
    "report_number": "2026-08310090",
