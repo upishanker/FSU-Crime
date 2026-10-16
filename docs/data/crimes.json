@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-10-15T15:30:15Z",
- "count": 444,
- "total_records": 521,
+ "generated_at": "2026-10-16T15:14:03Z",
+ "count": 447,
+ "total_records": 524,
  "crimes": [
+  {
+   "report_number": "2026-10140082",
+   "agency": "FSUPD",
+   "crime_type": "MALICIOUSLY MOLEST COIN OPERATED MACHINE",
+   "crime_date": "2026-10-14T11:15:00",
+   "report_date": "2026-10-14T11:16:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": NaN,
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
+  },
+  {
+   "report_number": "2026-10140082",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-10-14T11:15:00",
+   "report_date": "2026-10-14T11:16:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": NaN,
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
+  },
+  {
+   "report_number": "2026-10140089",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-10-14T08:50:00",
+   "report_date": "2026-10-14T12:19:00",
+   "location": "284 CHAMPIONS WAY , Tallahassee, FL 32306",
+   "disposition": NaN,
+   "latitude": 30.4378246,
+   "longitude": -84.3024878
+  },
   {
    "report_number": "2026-10130115",
    "agency": "FSUPD",
