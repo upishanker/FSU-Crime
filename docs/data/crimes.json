@@ -1,8 +1,63 @@
 {
- "generated_at": "2026-10-22T15:47:39Z",
- "count": 457,
- "total_records": 538,
+ "generated_at": "2026-10-23T15:38:53Z",
+ "count": 463,
+ "total_records": 544,
  "crimes": [
+  {
+   "report_number": "2026-10220021",
+   "agency": "FSUPD",
+   "crime_type": "DWLS W/ KNOWLEDGE",
+   "crime_date": "2026-10-22T02:14:00",
+   "report_date": "2026-10-22T02:14:00",
+   "location": "1080 W TENNESSEE ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4488592,
+   "longitude": -84.3032575
+  },
+  {
+   "report_number": "2026-10220020",
+   "agency": "FSUPD",
+   "crime_type": "DUI",
+   "crime_date": "2026-10-22T02:12:00",
+   "report_date": "2026-10-22T02:12:00",
+   "location": "811 LAKE BRADFORD RD , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4336128,
+   "longitude": -84.3014193
+  },
+  {
+   "report_number": "2026-10220020",
+   "agency": "FSUPD",
+   "crime_type": "REFUSE TO SUBMIT DUI TEST AFTER LIC SUSP",
+   "crime_date": "2026-10-22T02:12:00",
+   "report_date": "2026-10-22T02:12:00",
+   "location": "811 LAKE BRADFORD RD , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4336128,
+   "longitude": -84.3014193
+  },
+  {
+   "report_number": "2026-10220004",
+   "agency": "FSUPD",
+   "crime_type": "DWLS W/ KNOWLEDGE",
+   "crime_date": "2026-10-22T01:01:00",
+   "report_date": "2026-10-22T01:01:00",
+   "location": "N WOODWARD AVE/W TENNESSEE ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4464202,
+   "longitude": -84.2988877
+  },
+  {
+   "report_number": "2026-10210111",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-10-21T14:30:00",
+   "report_date": "2026-10-21T17:07:00",
+   "location": "402 W GAINES ST , TALLAHASSEE, FL 32301",
+   "disposition": "Inactive",
+   "latitude": 30.4357406,
+   "longitude": -84.2862174
+  },
   {
    "report_number": "2026-10200060",
    "agency": "FSUPD",
@@ -13,6 +68,17 @@
    "disposition": "Cleared by Arrest",
    "latitude": 30.4473975,
    "longitude": -84.2980158
+  },
+  {
+   "report_number": "2026-10220008",
+   "agency": "FSUPD",
+   "crime_type": "Threats; extortion written or printed communication-guilty of a felony of the second degree",
+   "crime_date": "2026-10-20T00:00:00",
+   "report_date": "2026-10-22T01:11:00",
+   "location": "119 HONORS WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.442567,
+   "longitude": -84.2940493
   },
   {
    "report_number": "2026-10180049",
