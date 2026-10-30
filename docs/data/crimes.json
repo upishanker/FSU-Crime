@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-10-28T17:00:08Z",
- "count": 480,
- "total_records": 567,
+ "generated_at": "2026-10-30T16:56:49Z",
+ "count": 484,
+ "total_records": 573,
  "crimes": [
+  {
+   "report_number": "2026-10300019",
+   "agency": "FSUPD",
+   "crime_type": "RESISTING ARREST W/OUT VIOLENCE",
+   "crime_date": "2026-10-30T02:07:00",
+   "report_date": "2026-10-30T02:07:00",
+   "location": "1110 SPIRIT WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4426359,
+   "longitude": -84.3065052
+  },
+  {
+   "report_number": "2026-10300019",
+   "agency": "FSUPD",
+   "crime_type": "TRESSPASS AFTER WARNING",
+   "crime_date": "2026-10-30T02:07:00",
+   "report_date": "2026-10-30T02:07:00",
+   "location": "1110 SPIRIT WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4426359,
+   "longitude": -84.3065052
+  },
+  {
+   "report_number": "2026-10290102",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-10-29T10:30:00",
+   "report_date": "2026-10-29T16:20:00",
+   "location": "1017 ACADEMIC WAY , Tallahassee, FL 32306",
+   "disposition": "Inactive",
+   "latitude": 30.4461372,
+   "longitude": -84.2995042
+  },
+  {
+   "report_number": "2026-10280137",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-10-28T14:00:00",
+   "report_date": "2026-10-28T16:34:00",
+   "location": "75 N WOODWARD AVE , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4445384,
+   "longitude": -84.2972973
+  },
   {
    "report_number": "2026-10270026",
    "agency": "FSUPD",
