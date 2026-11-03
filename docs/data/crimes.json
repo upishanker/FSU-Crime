@@ -1,8 +1,107 @@
 {
- "generated_at": "2026-10-30T16:56:49Z",
- "count": 484,
- "total_records": 573,
+ "generated_at": "2026-11-03T18:14:59Z",
+ "count": 493,
+ "total_records": 585,
  "crimes": [
+  {
+   "report_number": "2026-11020098",
+   "agency": "FSUPD",
+   "crime_type": "LEO may arrest a person w/o a warrant when a warrant for the arrest has been issued and is held by another LEO",
+   "crime_date": "2026-11-02T15:56:00",
+   "report_date": "2026-11-02T15:56:00",
+   "location": "402 W GAINES ST , TALLAHASSEE, FL 32301",
+   "disposition": "Closed",
+   "latitude": 30.4357406,
+   "longitude": -84.2862174
+  },
+  {
+   "report_number": "2026-11010082",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASSING",
+   "crime_date": "2026-11-01T08:00:00",
+   "report_date": "2026-11-01T08:01:00",
+   "location": "1115 W CALL ST , Tallahassee, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4442011,
+   "longitude": -84.2994469
+  },
+  {
+   "report_number": "2026-11010056",
+   "agency": "FSUPD",
+   "crime_type": "FAILURE TO APPEAR OF DEFENDANT ON BAIL FOR MISDEMEANOR CHARGE",
+   "crime_date": "2026-11-01T03:31:00",
+   "report_date": "2026-11-01T03:31:00",
+   "location": "1940 HERITAGE GROVE CIR , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4461167,
+   "longitude": -84.3141334
+  },
+  {
+   "report_number": "2026-11010037",
+   "agency": "FSUPD",
+   "crime_type": "GRAND THEFT $750 LESS THAN $5K",
+   "crime_date": "2026-11-01T01:10:00",
+   "report_date": "2026-11-01T01:25:00",
+   "location": "1940 HERITAGE GROVE CIR , Tallahassee, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4461167,
+   "longitude": -84.3141334
+  },
+  {
+   "report_number": "2026-10310156",
+   "agency": "FSUPD",
+   "crime_type": "TRESPASS OF STRUCTURE OR CONVEYANCE",
+   "crime_date": "2026-10-31T21:06:00",
+   "report_date": "2026-10-31T21:06:00",
+   "location": "1060 ATOMIC WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4465818,
+   "longitude": -84.3009429
+  },
+  {
+   "report_number": "2026-10310036",
+   "agency": "FSUPD",
+   "crime_type": "PETIT THEFT 2ND DEG",
+   "crime_date": "2026-10-31T03:17:00",
+   "report_date": "2026-10-31T03:17:00",
+   "location": "645 W JEFFERSON ST , TALLAHASSEE, FL",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.439535,
+   "longitude": -84.2924621
+  },
+  {
+   "report_number": "2026-11010121",
+   "agency": "FSUPD",
+   "crime_type": "BURGLARY OF UNOCCUP DWELLING WHILE UNARMED",
+   "crime_date": "2026-10-31T00:00:00",
+   "report_date": "2026-11-01T16:30:00",
+   "location": "503 W COLLEGE AVE , TALLAHASSEE, FL 32301",
+   "disposition": "Closed",
+   "latitude": 30.440641,
+   "longitude": -84.2897838
+  },
+  {
+   "report_number": "2026-10300149",
+   "agency": "FSUPD",
+   "crime_type": "Petit theft Property value $100 but less than $750",
+   "crime_date": "2026-10-30T22:29:00",
+   "report_date": "2026-10-30T22:29:00",
+   "location": "1000 W TENNESSEE ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4469118,
+   "longitude": -84.299448
+  },
+  {
+   "report_number": "2026-11010112",
+   "agency": "FSUPD",
+   "crime_type": "BURGLARY TO UNOCC STRUCTURE WHILE UNARMED",
+   "crime_date": "2026-10-30T22:00:00",
+   "report_date": "2026-11-01T14:19:00",
+   "location": "270 CHIEFTAN WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4412093,
+   "longitude": -84.3031313
+  },
   {
    "report_number": "2026-10300019",
    "agency": "FSUPD",
