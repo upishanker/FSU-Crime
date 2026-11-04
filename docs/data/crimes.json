@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-11-03T18:14:59Z",
- "count": 493,
- "total_records": 585,
+ "generated_at": "2026-11-04T18:28:33Z",
+ "count": 494,
+ "total_records": 587,
  "crimes": [
+  {
+   "report_number": "2026-11030126",
+   "agency": "FSUPD",
+   "crime_type": "CRASH LEAVE THE SCENE W/O GIVING INFORMAITON MORE THAN $50 DAMAGE",
+   "crime_date": "2026-11-03T10:00:00",
+   "report_date": "2026-11-03T16:05:00",
+   "location": "270 CHIEFTAN WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4412093,
+   "longitude": -84.3031313
+  },
   {
    "report_number": "2026-11020098",
    "agency": "FSUPD",
