@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-11-10T18:29:04Z",
- "count": 508,
- "total_records": 602,
+ "generated_at": "2026-11-11T18:23:57Z",
+ "count": 510,
+ "total_records": 604,
  "crimes": [
+  {
+   "report_number": "2026-11090081",
+   "agency": "FSUPD",
+   "crime_type": "Other- PETIT THEFT 1ST DEG $100 LESS THAN $750",
+   "crime_date": "2026-11-09T01:00:00",
+   "report_date": "2026-11-09T18:59:00",
+   "location": "938 W JEFFERSON ST , Tallahassee, FL 32304",
+   "disposition": "Inactive",
+   "latitude": 30.4396948,
+   "longitude": -84.2987746
+  },
   {
    "report_number": "2026-11070051",
    "agency": "FSUPD",
@@ -21,7 +32,7 @@
    "crime_date": "2026-11-07T02:17:00",
    "report_date": "2026-11-07T02:23:00",
    "location": "410 WALKER ST , TALLAHASSEE, FL 32304",
-   "disposition": NaN,
+   "disposition": "Open/Pending",
    "latitude": 30.4379897,
    "longitude": -84.2997081
   },
@@ -32,7 +43,7 @@
    "crime_date": "2026-11-06T19:00:00",
    "report_date": "2026-11-06T19:03:00",
    "location": "505 W PENSACOLA ST , TALLAHASSEE, FL 32301",
-   "disposition": NaN,
+   "disposition": "Closed",
    "latitude": 30.4377748,
    "longitude": -84.2866345
   },
@@ -43,7 +54,7 @@
    "crime_date": "2026-11-06T19:00:00",
    "report_date": "2026-11-06T19:03:00",
    "location": "505 W PENSACOLA ST , TALLAHASSEE, FL 32301",
-   "disposition": NaN,
+   "disposition": "Closed",
    "latitude": 30.4377748,
    "longitude": -84.2866345
   },
@@ -54,7 +65,7 @@
    "crime_date": "2026-11-06T19:00:00",
    "report_date": "2026-11-06T19:03:00",
    "location": "505 W PENSACOLA ST , TALLAHASSEE, FL 32301",
-   "disposition": NaN,
+   "disposition": "Closed",
    "latitude": 30.4377748,
    "longitude": -84.2866345
   },
@@ -65,7 +76,7 @@
    "crime_date": "2026-11-06T15:27:00",
    "report_date": "2026-11-06T15:29:00",
    "location": "120 CONVOCATION WAY , Tallahassee, FL 32306",
-   "disposition": NaN,
+   "disposition": "Cleared by Citation",
    "latitude": 30.4427874,
    "longitude": -84.2925383
   },
@@ -76,7 +87,7 @@
    "crime_date": "2026-11-06T14:50:00",
    "report_date": "2026-11-09T09:14:00",
    "location": "200 W COLLEGE AVE , Tallahassee, FL 32301",
-   "disposition": NaN,
+   "disposition": "Closed",
    "latitude": 30.4409189,
    "longitude": -84.2834708
   },
@@ -109,7 +120,7 @@
    "crime_date": "2026-11-05T11:59:00",
    "report_date": "2026-11-05T11:59:00",
    "location": "1122 SPIRIT WAY , TALLAHASSEE, FL 32306",
-   "disposition": NaN,
+   "disposition": "Cleared by Arrest",
    "latitude": 30.4434126,
    "longitude": -84.3052002
   },
@@ -153,7 +164,7 @@
    "crime_date": "2026-11-03T09:35:00",
    "report_date": "2026-11-05T11:05:00",
    "location": "139 CHIEFTAN WAY , TALLAHASSEE, FL 32306",
-   "disposition": NaN,
+   "disposition": "Inactive",
    "latitude": 30.4426144,
    "longitude": -84.3020872
   },
@@ -483,7 +494,7 @@
    "crime_date": "2026-10-22T21:15:00",
    "report_date": "2026-11-05T16:50:00",
    "location": "824 W JEFFERSON ST , TALLAHASSEE, FL 32306",
-   "disposition": NaN,
+   "disposition": "Open/Pending",
    "latitude": 30.4400453,
    "longitude": -84.2968221
   },
@@ -1333,6 +1344,17 @@
    "disposition": "Cleared by Citation",
    "latitude": 30.44256009999999,
    "longitude": -84.3051442
+  },
+  {
+   "report_number": "2026-11080103",
+   "agency": "FSUPD",
+   "crime_type": "STALKING- FOLLOW HARASS CYBERSTALK ANOTHER",
+   "crime_date": "2026-09-18T17:09:00",
+   "report_date": "2026-11-08T18:27:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Closed",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
   },
   {
    "report_number": "2026-10160094",
