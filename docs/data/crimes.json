@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-11-12T18:42:28Z",
- "count": 512,
- "total_records": 607,
+ "generated_at": "2026-11-13T18:24:02Z",
+ "count": 515,
+ "total_records": 610,
  "crimes": [
+  {
+   "report_number": "2026-11120063",
+   "agency": "FSUPD",
+   "crime_type": "CARELESS DRIVING",
+   "crime_date": "2026-11-12T12:40:00",
+   "report_date": "2026-11-12T12:46:00",
+   "location": "118 VARSITY WAY , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Citation",
+   "latitude": 30.4419465,
+   "longitude": -84.3018533
+  },
+  {
+   "report_number": "2026-11120072",
+   "agency": "FSUPD",
+   "crime_type": "CRIMINAL MISCHIEF $200 OR LESS- 1ST OFFENSE",
+   "crime_date": "2026-11-12T11:31:00",
+   "report_date": "2026-11-12T14:19:00",
+   "location": "402 W GAINES ST , TALLAHASSEE, FL 32301",
+   "disposition": "Open/Pending",
+   "latitude": 30.4357406,
+   "longitude": -84.2862174
+  },
+  {
+   "report_number": "2026-11120072",
+   "agency": "FSUPD",
+   "crime_type": "Theft - property stolen is valued at $100 or more, but less than $750",
+   "crime_date": "2026-11-12T11:31:00",
+   "report_date": "2026-11-12T14:19:00",
+   "location": "402 W GAINES ST , TALLAHASSEE, FL 32301",
+   "disposition": "Open/Pending",
+   "latitude": 30.4357406,
+   "longitude": -84.2862174
+  },
   {
    "report_number": "2026-11110138",
    "agency": "FSUPD",
