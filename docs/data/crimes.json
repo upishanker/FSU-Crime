@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-11-18T19:14:57Z",
- "count": 522,
- "total_records": 621,
+ "generated_at": "2026-11-19T19:21:37Z",
+ "count": 526,
+ "total_records": 625,
  "crimes": [
+  {
+   "report_number": "2026-11190013",
+   "agency": "FSUPD",
+   "crime_type": "DUI",
+   "crime_date": "2026-11-19T01:22:00",
+   "report_date": "2026-11-19T01:22:00",
+   "location": "1028 W TENNESSEE ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4470861,
+   "longitude": -84.299808
+  },
+  {
+   "report_number": "2026-11190013",
+   "agency": "FSUPD",
+   "crime_type": "POSSESSION OF CONTROLLED SUBSTANCE W/O PRESCRIPTION",
+   "crime_date": "2026-11-19T01:22:00",
+   "report_date": "2026-11-19T01:22:00",
+   "location": "1028 W TENNESSEE ST , TALLAHASSEE, FL 32306",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4470861,
+   "longitude": -84.299808
+  },
+  {
+   "report_number": "2026-11180128",
+   "agency": "FSUPD",
+   "crime_type": "FAIL TO REGISTER MOTOR VEH",
+   "crime_date": "2026-11-18T19:46:00",
+   "report_date": "2026-11-18T19:46:00",
+   "location": "826 W GAINES ST , TALLAHASSEE, FL 32304",
+   "disposition": "Cleared by Arrest",
+   "latitude": 30.4355065,
+   "longitude": -84.2964731
+  },
+  {
+   "report_number": "2026-11180151",
+   "agency": "FSUPD",
+   "crime_type": "Threats; extortion written or printed communication-guilty of a felony of the second degree",
+   "crime_date": "2026-11-18T01:17:00",
+   "report_date": "2026-11-18T21:41:00",
+   "location": "830 W JEFFERSON ST , Tallahassee, FL 32306",
+   "disposition": "Open/Pending",
+   "latitude": 30.4401802,
+   "longitude": -84.2976478
+  },
   {
    "report_number": "2026-11170082",
    "agency": "FSUPD",
